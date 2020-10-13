@@ -1,0 +1,2 @@
+**quick learner**
+**love** JS
